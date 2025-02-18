@@ -1,0 +1,542 @@
+[
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Desktop",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-1 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Desktop",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-2 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Desktop",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-3 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Desktop",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-4 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Desktop",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-5 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Desktop",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-6 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Desktop",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-7 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Desktop",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-8 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Desktop",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-9 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Desktop",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-1 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Desktop",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-2 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Desktop",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-3 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Desktop",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-4 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Desktop",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-5 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Desktop",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-6 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Desktop",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-7 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Desktop",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-8 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Desktop",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-9 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Tablet",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-1 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Tablet",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-2 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Tablet",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-3 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Tablet",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-4 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Tablet",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-5 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Tablet",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-6 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Tablet",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-7 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Tablet",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-8 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Tablet",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-9 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Tablet",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-1 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Tablet",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-2 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Tablet",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-3 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Tablet",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-4 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Tablet",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-5 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Tablet",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-6 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Tablet",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-7 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Tablet",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-8 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Tablet",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-9 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Mobile",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-1 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Mobile",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-2 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Mobile",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-3 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Mobile",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-4 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Mobile",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-5 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Mobile",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-6 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Mobile",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-7 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Mobile",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-8 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Mobile",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-9 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Mobile",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-1 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Mobile",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-2 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Mobile",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-3 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Mobile",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-4 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Mobile",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-5 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Mobile",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-6 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Mobile",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-7 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Mobile",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-8 > .tooltip__container > h3"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/",
+    "Viewport": "Mobile",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "#erg-9 > .tooltip__container > h3"
+  }
+]

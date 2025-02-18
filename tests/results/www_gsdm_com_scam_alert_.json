@@ -1,0 +1,110 @@
+[
+  {
+    "URL": "https://www.gsdm.com/scam-alert/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/scam-alert/",
+    "Viewport": "Desktop",
+    "Impact": "moderate",
+    "Description": "Ensure the order of headings is semantically correct",
+    "Help": "Heading levels should only increase by one",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/heading-order?application=axeAPI",
+    "Selector": ".header-content > h4"
+  },
+  {
+    "URL": "https://www.gsdm.com/scam-alert/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/scam-alert/",
+    "Viewport": "Desktop",
+    "Impact": "moderate",
+    "Description": "Ensure the order of headings is semantically correct",
+    "Help": "Heading levels should only increase by one",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/heading-order?application=axeAPI",
+    "Selector": ".header-content > h4"
+  },
+  {
+    "URL": "https://www.gsdm.com/scam-alert/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/scam-alert/",
+    "Viewport": "Tablet",
+    "Impact": "moderate",
+    "Description": "Ensure the order of headings is semantically correct",
+    "Help": "Heading levels should only increase by one",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/heading-order?application=axeAPI",
+    "Selector": ".header-content > h4"
+  },
+  {
+    "URL": "https://www.gsdm.com/scam-alert/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/scam-alert/",
+    "Viewport": "Tablet",
+    "Impact": "moderate",
+    "Description": "Ensure the order of headings is semantically correct",
+    "Help": "Heading levels should only increase by one",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/heading-order?application=axeAPI",
+    "Selector": ".header-content > h4"
+  },
+  {
+    "URL": "https://www.gsdm.com/scam-alert/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/scam-alert/",
+    "Viewport": "Mobile",
+    "Impact": "moderate",
+    "Description": "Ensure the order of headings is semantically correct",
+    "Help": "Heading levels should only increase by one",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/heading-order?application=axeAPI",
+    "Selector": ".header-content > h4"
+  },
+  {
+    "URL": "https://www.gsdm.com/scam-alert/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/scam-alert/",
+    "Viewport": "Mobile",
+    "Impact": "moderate",
+    "Description": "Ensure the order of headings is semantically correct",
+    "Help": "Heading levels should only increase by one",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/heading-order?application=axeAPI",
+    "Selector": ".header-content > h4"
+  }
+]

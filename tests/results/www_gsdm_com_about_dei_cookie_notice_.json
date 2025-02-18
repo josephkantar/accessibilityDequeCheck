@@ -1,0 +1,110 @@
+[
+  {
+    "URL": "https://www.gsdm.com/about/dei/cookie-notice/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/cookie-notice/",
+    "Viewport": "Desktop",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "h1"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/cookie-notice/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/cookie-notice/",
+    "Viewport": "Desktop",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "h1"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/cookie-notice/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/cookie-notice/",
+    "Viewport": "Tablet",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "h1"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/cookie-notice/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/cookie-notice/",
+    "Viewport": "Tablet",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "h1"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/cookie-notice/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/cookie-notice/",
+    "Viewport": "Mobile",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "h1"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/cookie-notice/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/dei/cookie-notice/",
+    "Viewport": "Mobile",
+    "Impact": "minor",
+    "Description": "Ensure headings have discernible text",
+    "Help": "Headings should not be empty",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=axeAPI",
+    "Selector": "h1"
+  }
+]

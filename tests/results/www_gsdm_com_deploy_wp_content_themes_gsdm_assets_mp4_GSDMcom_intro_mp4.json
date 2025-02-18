@@ -1,0 +1,83 @@
+[
+  {
+    "URL": "https://www.gsdm.com/deploy/wp-content/themes/gsdm/assets/mp4/GSDMcom_intro.mp4",
+    "Viewport": "Desktop",
+    "Impact": "moderate",
+    "Description": "Ensure the document has a main landmark",
+    "Help": "Document should have one main landmark",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/landmark-one-main?application=axeAPI",
+    "Selector": "html"
+  },
+  {
+    "URL": "https://www.gsdm.com/deploy/wp-content/themes/gsdm/assets/mp4/GSDMcom_intro.mp4",
+    "Viewport": "Desktop",
+    "Impact": "moderate",
+    "Description": "Ensure that the page, or at least one of its frames contains a level-one heading",
+    "Help": "Page should contain a level-one heading",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/page-has-heading-one?application=axeAPI",
+    "Selector": "html"
+  },
+  {
+    "URL": "https://www.gsdm.com/deploy/wp-content/themes/gsdm/assets/mp4/GSDMcom_intro.mp4",
+    "Viewport": "Desktop",
+    "Impact": "moderate",
+    "Description": "Ensure all page content is contained by landmarks",
+    "Help": "All page content should be contained by landmarks",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/region?application=axeAPI",
+    "Selector": "video"
+  },
+  {
+    "URL": "https://www.gsdm.com/deploy/wp-content/themes/gsdm/assets/mp4/GSDMcom_intro.mp4",
+    "Viewport": "Tablet",
+    "Impact": "moderate",
+    "Description": "Ensure the document has a main landmark",
+    "Help": "Document should have one main landmark",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/landmark-one-main?application=axeAPI",
+    "Selector": "html"
+  },
+  {
+    "URL": "https://www.gsdm.com/deploy/wp-content/themes/gsdm/assets/mp4/GSDMcom_intro.mp4",
+    "Viewport": "Tablet",
+    "Impact": "moderate",
+    "Description": "Ensure that the page, or at least one of its frames contains a level-one heading",
+    "Help": "Page should contain a level-one heading",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/page-has-heading-one?application=axeAPI",
+    "Selector": "html"
+  },
+  {
+    "URL": "https://www.gsdm.com/deploy/wp-content/themes/gsdm/assets/mp4/GSDMcom_intro.mp4",
+    "Viewport": "Tablet",
+    "Impact": "moderate",
+    "Description": "Ensure all page content is contained by landmarks",
+    "Help": "All page content should be contained by landmarks",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/region?application=axeAPI",
+    "Selector": "video"
+  },
+  {
+    "URL": "https://www.gsdm.com/deploy/wp-content/themes/gsdm/assets/mp4/GSDMcom_intro.mp4",
+    "Viewport": "Mobile",
+    "Impact": "moderate",
+    "Description": "Ensure the document has a main landmark",
+    "Help": "Document should have one main landmark",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/landmark-one-main?application=axeAPI",
+    "Selector": "html"
+  },
+  {
+    "URL": "https://www.gsdm.com/deploy/wp-content/themes/gsdm/assets/mp4/GSDMcom_intro.mp4",
+    "Viewport": "Mobile",
+    "Impact": "moderate",
+    "Description": "Ensure that the page, or at least one of its frames contains a level-one heading",
+    "Help": "Page should contain a level-one heading",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/page-has-heading-one?application=axeAPI",
+    "Selector": "html"
+  },
+  {
+    "URL": "https://www.gsdm.com/deploy/wp-content/themes/gsdm/assets/mp4/GSDMcom_intro.mp4",
+    "Viewport": "Mobile",
+    "Impact": "moderate",
+    "Description": "Ensure all page content is contained by landmarks",
+    "Help": "All page content should be contained by landmarks",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/region?application=axeAPI",
+    "Selector": "video"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "URL": "https://www.gsdm.com/drive-your-own-story/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/drive-your-own-story/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "iframe[width=\"640\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/drive-your-own-story/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/drive-your-own-story/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "iframe[width=\"640\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/drive-your-own-story/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/drive-your-own-story/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "iframe[width=\"640\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/drive-your-own-story/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/drive-your-own-story/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "iframe[width=\"640\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/drive-your-own-story/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/drive-your-own-story/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "iframe[width=\"640\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/drive-your-own-story/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/drive-your-own-story/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "iframe[width=\"640\"]"
+  }
+]

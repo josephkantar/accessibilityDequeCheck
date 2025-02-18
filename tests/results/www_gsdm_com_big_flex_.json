@@ -1,0 +1,272 @@
+[
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": ".study-media > .study-media__video > iframe[width=\"640\"][height=\"360\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-1 > .study-media__video > iframe[width=\"640\"][height=\"360\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-2 > .study-media__video > iframe[width=\"640\"][height=\"360\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-3 > .study-media__video > iframe[width=\"640\"][height=\"360\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": ".study-media > .study-media__video > iframe[width=\"640\"][height=\"360\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-1 > .study-media__video > iframe[width=\"640\"][height=\"360\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-2 > .study-media__video > iframe[width=\"640\"][height=\"360\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-3 > .study-media__video > iframe[width=\"640\"][height=\"360\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": ".study-media > .study-media__video > iframe[width=\"640\"][height=\"360\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-1 > .study-media__video > iframe[width=\"640\"][height=\"360\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-2 > .study-media__video > iframe[width=\"640\"][height=\"360\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-3 > .study-media__video > iframe[width=\"640\"][height=\"360\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": ".study-media > .study-media__video > iframe[width=\"640\"][height=\"360\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-1 > .study-media__video > iframe[width=\"640\"][height=\"360\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-2 > .study-media__video > iframe[width=\"640\"][height=\"360\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-3 > .study-media__video > iframe[width=\"640\"][height=\"360\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": ".study-media > .study-media__video > iframe[width=\"640\"][height=\"360\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-1 > .study-media__video > iframe[width=\"640\"][height=\"360\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-2 > .study-media__video > iframe[width=\"640\"][height=\"360\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-3 > .study-media__video > iframe[width=\"640\"][height=\"360\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": ".study-media > .study-media__video > iframe[width=\"640\"][height=\"360\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-1 > .study-media__video > iframe[width=\"640\"][height=\"360\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-2 > .study-media__video > iframe[width=\"640\"][height=\"360\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/big-flex/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-3 > .study-media__video > iframe[width=\"640\"][height=\"360\"][frameborder=\"0\"]"
+  }
+]

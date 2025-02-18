@@ -1,0 +1,110 @@
+[
+  {
+    "URL": "https://www.gsdm.com/space-is-closer-than-you-think/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/space-is-closer-than-you-think/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/space-is-closer-than-you-think/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure that lists are structured correctly",
+    "Help": "<ul> and <ol> must only directly contain <li>, <script> or <template> elements",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/list?application=axeAPI",
+    "Selector": ".keynote-body__copy"
+  },
+  {
+    "URL": "https://www.gsdm.com/space-is-closer-than-you-think/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure <li> elements are used semantically",
+    "Help": "<li> elements must be contained in a <ul> or <ol>",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/listitem?application=axeAPI",
+    "Selector": ".left > li"
+  },
+  {
+    "URL": "https://www.gsdm.com/space-is-closer-than-you-think/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/space-is-closer-than-you-think/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/space-is-closer-than-you-think/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure that lists are structured correctly",
+    "Help": "<ul> and <ol> must only directly contain <li>, <script> or <template> elements",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/list?application=axeAPI",
+    "Selector": ".keynote-body__copy"
+  },
+  {
+    "URL": "https://www.gsdm.com/space-is-closer-than-you-think/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure <li> elements are used semantically",
+    "Help": "<li> elements must be contained in a <ul> or <ol>",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/listitem?application=axeAPI",
+    "Selector": ".left > li"
+  },
+  {
+    "URL": "https://www.gsdm.com/space-is-closer-than-you-think/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/space-is-closer-than-you-think/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/space-is-closer-than-you-think/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure that lists are structured correctly",
+    "Help": "<ul> and <ol> must only directly contain <li>, <script> or <template> elements",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/list?application=axeAPI",
+    "Selector": ".keynote-body__copy"
+  },
+  {
+    "URL": "https://www.gsdm.com/space-is-closer-than-you-think/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure <li> elements are used semantically",
+    "Help": "<li> elements must be contained in a <ul> or <ol>",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/listitem?application=axeAPI",
+    "Selector": ".left > li"
+  }
+]

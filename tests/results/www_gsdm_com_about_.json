@@ -1,0 +1,110 @@
+[
+  {
+    "URL": "https://www.gsdm.com/about/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure every ARIA dialog and alertdialog node has an accessible name",
+    "Help": "ARIA dialog and alertdialog nodes should have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/aria-dialog-name?application=axeAPI",
+    "Selector": "#highlight-popup"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure every ARIA dialog and alertdialog node has an accessible name",
+    "Help": "ARIA dialog and alertdialog nodes should have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/aria-dialog-name?application=axeAPI",
+    "Selector": "#highlight-popup"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure every ARIA dialog and alertdialog node has an accessible name",
+    "Help": "ARIA dialog and alertdialog nodes should have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/aria-dialog-name?application=axeAPI",
+    "Selector": "#highlight-popup"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure every ARIA dialog and alertdialog node has an accessible name",
+    "Help": "ARIA dialog and alertdialog nodes should have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/aria-dialog-name?application=axeAPI",
+    "Selector": "#highlight-popup"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure every ARIA dialog and alertdialog node has an accessible name",
+    "Help": "ARIA dialog and alertdialog nodes should have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/aria-dialog-name?application=axeAPI",
+    "Selector": "#highlight-popup"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure every ARIA dialog and alertdialog node has an accessible name",
+    "Help": "ARIA dialog and alertdialog nodes should have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/aria-dialog-name?application=axeAPI",
+    "Selector": "#highlight-popup"
+  },
+  {
+    "URL": "https://www.gsdm.com/about/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  }
+]

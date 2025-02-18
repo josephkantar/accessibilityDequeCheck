@@ -1,0 +1,209 @@
+[
+  {
+    "URL": "https://www.gsdm.com/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/",
+    "Viewport": "Desktop",
+    "Impact": "moderate",
+    "Description": "Ensure all page content is contained by landmarks",
+    "Help": "All page content should be contained by landmarks",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/region?application=axeAPI",
+    "Selector": ".preload-anim"
+  },
+  {
+    "URL": "https://www.gsdm.com/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+    "Help": "Interactive controls must not be nested",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/nested-interactive?application=axeAPI",
+    "Selector": "div[aria-controls=\"slide-1\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+    "Help": "Interactive controls must not be nested",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/nested-interactive?application=axeAPI",
+    "Selector": "div[aria-controls=\"slide-2\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+    "Help": "Interactive controls must not be nested",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/nested-interactive?application=axeAPI",
+    "Selector": "div[aria-controls=\"slide-3\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+    "Help": "Interactive controls must not be nested",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/nested-interactive?application=axeAPI",
+    "Selector": "div[aria-controls=\"slide-4\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+    "Help": "Interactive controls must not be nested",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/nested-interactive?application=axeAPI",
+    "Selector": "div[aria-controls=\"slide-5\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/",
+    "Viewport": "Desktop",
+    "Impact": "moderate",
+    "Description": "Ensure all page content is contained by landmarks",
+    "Help": "All page content should be contained by landmarks",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/region?application=axeAPI",
+    "Selector": ".preload-anim"
+  },
+  {
+    "URL": "https://www.gsdm.com/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+    "Help": "Interactive controls must not be nested",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/nested-interactive?application=axeAPI",
+    "Selector": "div[aria-controls=\"slide-1\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+    "Help": "Interactive controls must not be nested",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/nested-interactive?application=axeAPI",
+    "Selector": "div[aria-controls=\"slide-2\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+    "Help": "Interactive controls must not be nested",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/nested-interactive?application=axeAPI",
+    "Selector": "div[aria-controls=\"slide-3\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+    "Help": "Interactive controls must not be nested",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/nested-interactive?application=axeAPI",
+    "Selector": "div[aria-controls=\"slide-4\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+    "Help": "Interactive controls must not be nested",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/nested-interactive?application=axeAPI",
+    "Selector": "div[aria-controls=\"slide-5\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+    "Help": "Interactive controls must not be nested",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/nested-interactive?application=axeAPI",
+    "Selector": "div[aria-controls=\"slide-1\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+    "Help": "Interactive controls must not be nested",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/nested-interactive?application=axeAPI",
+    "Selector": "div[aria-controls=\"slide-2\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+    "Help": "Interactive controls must not be nested",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/nested-interactive?application=axeAPI",
+    "Selector": "div[aria-controls=\"slide-3\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+    "Help": "Interactive controls must not be nested",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/nested-interactive?application=axeAPI",
+    "Selector": "div[aria-controls=\"slide-4\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+    "Help": "Interactive controls must not be nested",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/nested-interactive?application=axeAPI",
+    "Selector": "div[aria-controls=\"slide-5\"]"
+  }
+]

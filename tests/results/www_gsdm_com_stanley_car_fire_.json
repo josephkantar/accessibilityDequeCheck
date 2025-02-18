@@ -1,0 +1,272 @@
+[
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-1 > .study-media__video > iframe[width=\"219\"][height=\"390\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-2 > .study-media__video > .optanon-category-C0003[width=\"219\"][height=\"390\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-3 > .study-media__video > .optanon-category-C0003[width=\"219\"][height=\"390\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-1 > .study-media__video > iframe[width=\"219\"][height=\"390\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-2 > .study-media__video > .optanon-category-C0003[width=\"219\"][height=\"390\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-3 > .study-media__video > .optanon-category-C0003[width=\"219\"][height=\"390\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure that lists are structured correctly",
+    "Help": "<ul> and <ol> must only directly contain <li>, <script> or <template> elements",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/list?application=axeAPI",
+    "Selector": ".keynote-body__copy"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Desktop",
+    "Impact": "serious",
+    "Description": "Ensure <li> elements are used semantically",
+    "Help": "<li> elements must be contained in a <ul> or <ol>",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/listitem?application=axeAPI",
+    "Selector": ".left > li"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-1 > .study-media__video > iframe[width=\"219\"][height=\"390\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-2 > .study-media__video > .optanon-category-C0003[width=\"219\"][height=\"390\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-3 > .study-media__video > .optanon-category-C0003[width=\"219\"][height=\"390\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-1 > .study-media__video > iframe[width=\"219\"][height=\"390\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-2 > .study-media__video > .optanon-category-C0003[width=\"219\"][height=\"390\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-3 > .study-media__video > .optanon-category-C0003[width=\"219\"][height=\"390\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure that lists are structured correctly",
+    "Help": "<ul> and <ol> must only directly contain <li>, <script> or <template> elements",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/list?application=axeAPI",
+    "Selector": ".keynote-body__copy"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Tablet",
+    "Impact": "serious",
+    "Description": "Ensure <li> elements are used semantically",
+    "Help": "<li> elements must be contained in a <ul> or <ol>",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/listitem?application=axeAPI",
+    "Selector": ".left > li"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-1 > .study-media__video > iframe[width=\"219\"][height=\"390\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-2 > .study-media__video > .optanon-category-C0003[width=\"219\"][height=\"390\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-3 > .study-media__video > .optanon-category-C0003[width=\"219\"][height=\"390\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "Help": "Elements must meet minimum color contrast ratio thresholds",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+    "Selector": "#ot-sdk-btn"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-1 > .study-media__video > iframe[width=\"219\"][height=\"390\"][frameborder=\"0\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-2 > .study-media__video > .optanon-category-C0003[width=\"219\"][height=\"390\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure <iframe> and <frame> elements have an accessible name",
+    "Help": "Frames must have an accessible name",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axeAPI",
+    "Selector": "#slide-3 > .study-media__video > .optanon-category-C0003[width=\"219\"][height=\"390\"]"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure that lists are structured correctly",
+    "Help": "<ul> and <ol> must only directly contain <li>, <script> or <template> elements",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/list?application=axeAPI",
+    "Selector": ".keynote-body__copy"
+  },
+  {
+    "URL": "https://www.gsdm.com/stanley-car-fire/",
+    "Viewport": "Mobile",
+    "Impact": "serious",
+    "Description": "Ensure <li> elements are used semantically",
+    "Help": "<li> elements must be contained in a <ul> or <ol>",
+    "HelpUrl": "https://dequeuniversity.com/rules/axe/4.10/listitem?application=axeAPI",
+    "Selector": ".left > li"
+  }
+]
