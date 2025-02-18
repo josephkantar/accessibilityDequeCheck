@@ -102,7 +102,6 @@ const { parse } = require('json2csv');
           type: 'tag',
           values: ['wcag2.2a', 'wcag2.2aa', 'wcag2.2aaa', 'best-practice', 'section508']
         }
-        
       });
     });
 
